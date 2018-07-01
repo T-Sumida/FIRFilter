@@ -6,7 +6,7 @@ C++で実装したFIRFilter．
 
 
 ## Usage
-テストプログラムは make を用いればコンパイルされ， ./main で実行されます．
+テストプログラムは make を用いればコンパイルされ， ./test で実行されます．
 ```
 $ make all
 $ ./test
